@@ -7,4 +7,4 @@ By leveraging the Shodan API, sh0d4nC3TI provides users with the ability to disc
 
 root@kali:~# bash sh0d4nC3TI.sh
 
-![Usage](/images/usage.png)
+![Usage](/images/usage_.png)
