@@ -6,3 +6,5 @@ By leveraging the Shodan API, sh0d4nC3TI provides users with the ability to disc
 #How to use
 
 root@kali:~# bash sh0d4nC3TI.sh
+
+![Usage](/images/usage.png)
