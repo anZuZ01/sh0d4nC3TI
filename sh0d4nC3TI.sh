@@ -248,7 +248,7 @@ else
 	else
 		usage
 		echo
-		echo -e "\t${Red}Invalid API Token${Green}"	
+		echo -e "\t${Red}Invalid API Key${Green}"	
 	fi
 fi
 
