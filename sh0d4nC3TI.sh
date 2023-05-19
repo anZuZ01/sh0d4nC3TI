@@ -143,7 +143,7 @@ function picture() {
 
 function usage() {
 	picture
-	echo -e "\tUsage ${Red}sh0d4nC3TI${Green} ${BIBlue}options${Green} file_containing_IPs-or-IP API_token"
+	echo -e "\tUsage ${Red}sh0d4nC3TI${Green} ${BIBlue}options${Green} file_containing_IPs-or-IP API_key"
 	echo -e "\tOptions:"
 	echo
 	echo -e "\t\t- ${BIBlue}ports${Green} --> Discover open ports and each technology"
